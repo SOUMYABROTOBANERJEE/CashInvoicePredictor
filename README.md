@@ -63,4 +63,4 @@ o	The Terminologies involved:
 o	Advantages :It is a strong underlined mathematical theory which makes it easy to predict “PREICTIVE INTERVALS” which is it is flexible in capturing a lot of different parameters.
 o	Disadvantages :No explicit seasonal indices, hard to interpret coefficients or explain “how the model works”, there is danger of overfitting or mis-identification if not used with care.
 
-<img src="https://github.com/SOUMYABROTOBANERJEE/CashInvoicePredictor/raw/master/Required_GIF.gif" width="40" height="40" />
+<img src="https://github.com/SOUMYABROTOBANERJEE/CashInvoicePredictor/raw/master/Required_GIF.gif" width="400" height="400" />
