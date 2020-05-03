@@ -62,3 +62,5 @@ o	The Terminologies involved:
 •	These 3 are used to model ARIMA(p,d,q)
 o	Advantages :It is a strong underlined mathematical theory which makes it easy to predict “PREICTIVE INTERVALS” which is it is flexible in capturing a lot of different parameters.
 o	Disadvantages :No explicit seasonal indices, hard to interpret coefficients or explain “how the model works”, there is danger of overfitting or mis-identification if not used with care.
+
+![](required_GIF.gif)
